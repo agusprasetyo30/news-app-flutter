@@ -1,4 +1,4 @@
-# news_app
+# news_app MASTER
 
 A new Flutter project.
 
